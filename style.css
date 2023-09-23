@@ -4,11 +4,16 @@
 }
 
 body {
+    background-color: rgb(197, 221, 221);
     font-family: "Arial", sans-serif;
 }
 
 section {
     text-align: center;
+}
+
+.game--title {
+    margin-top: 20px;
 }
 
 .game--container {
@@ -31,6 +36,7 @@ section {
 }
 
 .game--restart {
+    margin-top: 20px;
     border: #333;
     border-radius: 5px;
     height: 40px;
